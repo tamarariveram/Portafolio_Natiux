@@ -2,26 +2,32 @@
 *{
     font-family: "EB Garamond", serif;
     box-sizing: border-box;
+    font-size: 18px;
 }
 
 body{
-    background-color: #D2C9C6;
+    background-color: #ecf8fe !important;
 }
 h3{
     margin-bottom: 50px !important;
 }
+
+h4{
+    color: #1a89c1 !important;
+}
+
 a {
     color: #d09d08;
     text-decoration: none;
     transition: color 0.2s ease;
 }
 body a {
-    color: #d09d08;
+    color: #087dd0;
 }
 
 a:hover,
 a:focus {
-    color: #a87f05;
+    color: #07318c;
     text-decoration: underline;
 }
 
